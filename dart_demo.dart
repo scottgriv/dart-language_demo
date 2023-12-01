@@ -1,3 +1,5 @@
+// Hello world
+
 void main() {
   print('Hello, World!');
 }
@@ -26,7 +28,7 @@ void main() {
   print('2 x 2 x 2 is ${runTwice(2, timesTwo)}');
 }
 
-//Control Flow
+//Control flow
 
 bool isEven(int x) {
   // An if-else statement.
@@ -76,7 +78,8 @@ are for multiple lines''');
   print('pi is $pi');
   print('tau is ${2 * pi}');
   
-//Collection Literals
+//Collection literals
+
 // A list literal.
 const lostNumbers = [4, 8, 15, 16, 23, 42];
 
@@ -101,6 +104,7 @@ void main() {
 }
 
 //Classes
+
 // Abstract classes can't be instantiated.
 abstract class Item {
   void use();
@@ -145,6 +149,7 @@ void main() {
 }
 
 //Compute Pi
+
 import 'dart:math' show Random;
 
 void main() async {
