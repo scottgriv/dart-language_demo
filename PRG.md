@@ -14,8 +14,8 @@ This file is used to connect this repository to the **PRG** project categorizati
 
 **Repository Tier:** Bronze <br>
 **Technology:** Dart <br>
-**Category:** Language Demo <br>
-**Order:** 0 <br>
+**Category:** Tutorial, Examples <br>
+**Order:** 46 <br>
 
 ## Parameters
 
